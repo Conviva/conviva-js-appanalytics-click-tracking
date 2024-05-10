@@ -1,5 +1,5 @@
-import { FilterCriterion, BrowserPlugin } from '@snowplow/browser-tracker-core';
-import { DynamicContext, CommonEventProperties, LinkClickEvent, ButtonClickEvent } from '@snowplow/tracker-core';
+import { FilterCriterion, BrowserPlugin } from '@convivainc/browser-tracker-core';
+import { DynamicContext, CommonEventProperties, LinkClickEvent, ButtonClickEvent } from '@convivainc/tracker-core';
 /**
  * Link click tracking
  *
