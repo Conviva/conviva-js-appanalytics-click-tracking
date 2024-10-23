@@ -1,5 +1,5 @@
 /*!
- * Link Click tracking for Snowplow v0.3.13 (http://bit.ly/sp-js)
+ * Link Click tracking for Snowplow v0.3.14 (http://bit.ly/sp-js)
  * Copyright 2022 Snowplow Analytics Ltd, 2010 Anthon Pang
  * Licensed under BSD-3-Clause
  */
