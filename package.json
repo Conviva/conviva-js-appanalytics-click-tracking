@@ -1,6 +1,6 @@
 {
   "name": "@convivainc/conviva-js-appanalytics-click-tracking",
-  "version": "0.3.14",
+  "version": "0.3.15",
   "description": "Conviva Application Analytics Link & Button Click Tracking Plugin",
   "main": "conviva-js-appanalytics-click-tracking.js",
   "repository": {
